@@ -1,4 +1,4 @@
-<h3 align="center">Hi, my name is Weronika and I'm a second year student majoring in Data Science. 👩🏼‍💻</h3>
+<h3 align="center">Hi, my name is Weronika and I'm a 2nd year student majoring in Data Science👩🏼‍💻</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,matlab,python,c,cpp" alt="Moje technologie" />
