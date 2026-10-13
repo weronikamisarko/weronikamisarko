@@ -1,7 +1,7 @@
 <h3 align="center">Hi, my name is Weronika and I'm a 3rd year student majoring in Data Science👩🏼‍💻</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,matlab,python,c,cpp" alt="Moje technologie" />
+    <img src="https://skillicons.dev/icons?i=r,matlab,python" alt="Moje technologie" />
     <img src="https://tse3.mm.bing.net/th/id/OIP.O_sQAfWJy_N5svO_bU5OVQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="48" height="48" alt="SQL" />
     <img src="https://www.eagleview.com/wp-content/uploads/2017/03/arcgis-pro.png" width="48" height="48" alt="ArcGIS" />
     <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" width="48" height="48" alt="PowerBI" />
